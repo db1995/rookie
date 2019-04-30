@@ -1,4 +1,4 @@
-package main
+package _package
 
 // 用圆括号组合了导入，比写多个import语句好
 import (
